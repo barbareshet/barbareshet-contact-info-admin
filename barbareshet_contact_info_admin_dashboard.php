@@ -50,7 +50,8 @@ class barbareshet_contact_info_admin_dashboard{
     }
 
     function dashboard_widget_output(){
-        echo 'OK';
+        printf( esc_html__( 'The Site: %1$s by %2$s.', 'iws_dciadw' ), get_bloginfo('name'), '<a href="http://www.barbareshet.co.il" rel="designer" target="_blank">Ido Barnea</a>' );
+
     }
 
     /**
