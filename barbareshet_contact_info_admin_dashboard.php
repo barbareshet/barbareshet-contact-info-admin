@@ -2,13 +2,13 @@
 
 /*
 Plugin Name: barbareshet contact info widget
-Plugin URI: http://www.barbareshet.co.il
-Description: Adds the developer's contact info to admin dashboard in order to simplify the process
-Version: 0.1
+Plugin URI: https://www.barbareshet.co.il
+Description: Adds the developer's contact info to admin dashboard in order to simplify the process of contacting me
+Version: 1.0
 Author: Ido Barnea
 Author Email: barbareshet@gmail.com
-Author URI: http://www.barbareshet.co.il
-Text Domain: iws_dciadw (ido web service -developer's contact info admin dashboard widget)
+Author URI: https://www.barbareshet.co.il
+Text Domain: iws_dciadw
 Domain Path: /languages
 License:
 
