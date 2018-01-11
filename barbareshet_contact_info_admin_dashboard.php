@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: barbareshet contact info widget
-Plugin URI: https://www.barbareshet.co.il
+Plugin URI: https://github.com/barbareshet/barbareshet-contact-info-admin/archive/1.0.zip
 Description: Adds the developer's contact info to admin dashboard in order to simplify the process of contacting me
 Version: 1.0
 Author: Ido Barnea

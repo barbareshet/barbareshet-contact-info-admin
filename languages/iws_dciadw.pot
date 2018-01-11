@@ -1,0 +1,43 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-11 19:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: barbareshet_contact_info_admin_dashboard.php:48
+msgid "Developer Contact Info"
+msgstr ""
+
+#: barbareshet_contact_info_admin_dashboard.php:54
+#, php-format
+msgid "The Site: %1$s by %2$s Contact me by mail: %3$s or via my website: %4$s"
+msgstr ""
+
+#. Name of the plugin
+msgid "barbareshet contact info widget"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds the developer's contact info to admin dashboard in order to simplify "
+"the process of contacting me"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.barbareshet.co.il"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ido Barnea"
+msgstr ""
