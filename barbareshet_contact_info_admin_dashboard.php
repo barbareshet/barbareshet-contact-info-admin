@@ -51,7 +51,12 @@ class barbareshet_contact_info_admin_dashboard{
 
     function dashboard_widget_output(){
 
-        printf( esc_html__( 'The Site: %1$s by %2$s Contact me by mail: %3$s or via my website: %4$s', 'iws_dciadw' ), get_bloginfo('name'), '<strong>Ido Barnea</strong><br>', 'barbareshet@gmail.com<br>','<a href="https://www.barbareshet.co.il/contact/" rel="designer" target="_blank">Ido Barnea</a>');
+        printf( esc_html__( 'The Site %1$s, was developed by %2$s Contact me by mail: %3$s or via my website: %4$s', 'iws_dciadw' ),
+	        get_bloginfo('name'),
+	        '<strong>Ido Barnea - Barbareshet</strong><br>',
+	        'barbareshet@gmail.com<br>',
+	        '<a href="https://www.barbareshet.co.il/contact/" rel="nofollow" target="_blank">Ido Barnea</a>'
+        );
     }
 
     /**
